@@ -1,0 +1,23 @@
+{
+  "total_questions": 392,
+  "correct_count": 130,
+  "accuracy": 0.33163265306122447,
+  "per_type_stats": {
+    "FR": {
+      "total": 100,
+      "correct": 28
+    },
+    "YN": {
+      "total": 100,
+      "correct": 26
+    },
+    "CO": {
+      "total": 100,
+      "correct": 24
+    },
+    "FB": {
+      "total": 92,
+      "correct": 52
+    }
+  }
+}

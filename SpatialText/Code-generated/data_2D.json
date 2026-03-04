@@ -1,0 +1,6309 @@
+[
+  {
+    "id": "Spatial_0",
+    "scene": {
+      "scene_id": 0,
+      "block_count": 2,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            5,
+            5
+          ],
+          "name": "中等的紫色梯形",
+          "coordinate": [
+            23,
+            -88
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            4,
+            2
+          ],
+          "name": "中等的白色长方形",
+          "coordinate": [
+            61,
+            93
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            0,
+            6
+          ],
+          "name": "大的红色直角三角形",
+          "coordinate": [
+            -18,
+            60
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            1,
+            1
+          ],
+          "name": "大的蓝色正方形",
+          "coordinate": [
+            42,
+            42
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            1,
+            1,
+            3
+          ],
+          "name": "中等的蓝色菱形",
+          "coordinate": [
+            95,
+            -31
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的紫色梯形相对大的蓝色正方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的白色长方形相对大的红色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的白色长方形相对中等的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的蓝色正方形相对中等的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的白色长方形相对大的蓝色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色直角三角形是否位于中等的蓝色菱形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的白色长方形是否位于大的红色直角三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的白色长方形是否位于中等的蓝色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的蓝色正方形是否位于中等的蓝色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色直角三角形是否位于大的蓝色正方形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的白色长方形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的红色直角三角形",
+          "B.大的蓝色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色直角三角形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的蓝色正方形",
+          "B.中等的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的紫色梯形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的白色长方形",
+          "B.大的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的紫色梯形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的红色直角三角形",
+          "B.大的蓝色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的紫色梯形的上方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的白色长方形",
+          "B.大的蓝色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的紫色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的蓝色菱形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的白色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的蓝色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的紫色梯形、一个中等的白色长方形、一个大的红色直角三角形。在区块1中，有一个大的蓝色正方形、一个中等的蓝色菱形。其中大的红色直角三角形位于大的蓝色正方形的左上；中等的白色长方形位于大的红色直角三角形的右上；中等的蓝色菱形位于大的蓝色正方形的右下；中等的紫色梯形位于大的蓝色正方形的左下；大的红色直角三角形位于中等的紫色梯形的左上；中等的紫色梯形位于中等的蓝色菱形的左下；中等的蓝色菱形位于中等的白色长方形的右下；大的蓝色正方形位于中等的白色长方形的左下。"
+  },
+  {
+    "id": "Spatial_1",
+    "scene": {
+      "scene_id": 1,
+      "block_count": 3,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            1,
+            3
+          ],
+          "name": "小的蓝色菱形",
+          "coordinate": [
+            98,
+            -5
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            1,
+            2
+          ],
+          "name": "中等的蓝色长方形",
+          "coordinate": [
+            34,
+            64
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            3,
+            2
+          ],
+          "name": "大的黑色长方形",
+          "coordinate": [
+            28,
+            -43
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            1,
+            2,
+            6
+          ],
+          "name": "中等的绿色直角三角形",
+          "coordinate": [
+            50,
+            -61
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            2,
+            3
+          ],
+          "name": "小的绿色菱形",
+          "coordinate": [
+            -75,
+            -47
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            2,
+            2,
+            3
+          ],
+          "name": "大的绿色菱形",
+          "coordinate": [
+            55,
+            29
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            1,
+            3,
+            4
+          ],
+          "name": "中等的黑色正三角形",
+          "coordinate": [
+            42,
+            -71
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            0,
+            4
+          ],
+          "name": "小的红色正三角形",
+          "coordinate": [
+            -30,
+            74
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 8,
+          "number": [
+            1,
+            4,
+            2
+          ],
+          "name": "中等的白色长方形",
+          "coordinate": [
+            78,
+            -22
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的蓝色长方形相对中等的白色长方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色菱形相对小的绿色菱形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的绿色菱形相对大的绿色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的蓝色长方形相对中等的绿色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的绿色菱形相对中等的白色长方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的蓝色菱形是否位于小的绿色菱形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色长方形是否位于大的黑色长方形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的蓝色菱形是否位于中等的白色长方形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色长方形是否位于大的绿色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色长方形是否位于小的红色正三角形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的蓝色长方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.小的绿色菱形",
+          "B.大的绿色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的蓝色菱形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的绿色菱形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色长方形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的绿色直角三角形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色长方形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的黑色正三角形",
+          "B.中等的白色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的绿色直角三角形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.小的绿色菱形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的蓝色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的蓝色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的黑色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的绿色直角三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的蓝色菱形、一个中等的蓝色长方形。在区块1中，有一个大的黑色长方形、一个中等的绿色直角三角形、一个小的绿色菱形、一个大的绿色菱形、一个中等的黑色正三角形。在区块2中，有一个小的红色正三角形、一个中等的白色长方形。其中小的红色正三角形位于小的绿色菱形的右上；小的绿色菱形位于大的黑色长方形的左下；中等的蓝色长方形位于大的黑色长方形的右上；中等的白色长方形位于小的蓝色菱形的左下；中等的绿色直角三角形位于中等的黑色正三角形的右上；大的绿色菱形位于中等的蓝色长方形的右下；中等的白色长方形位于大的黑色长方形的右上；大的绿色菱形位于中等的绿色直角三角形的右上；小的绿色菱形位于中等的绿色直角三角形的左上；大的黑色长方形位于小的红色正三角形的右下；中等的白色长方形位于大的绿色菱形的右下；中等的蓝色长方形位于中等的黑色正三角形的左上；大的绿色菱形位于小的蓝色菱形的左上；小的红色正三角形位于中等的蓝色长方形的左上。"
+  },
+  {
+    "id": "Spatial_2",
+    "scene": {
+      "scene_id": 2,
+      "block_count": 3,
+      "object_count": 6,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            3,
+            3
+          ],
+          "name": "中等的黑色菱形",
+          "coordinate": [
+            -70,
+            91
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            6,
+            4
+          ],
+          "name": "中等的橙色正三角形",
+          "coordinate": [
+            -33,
+            46
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            1,
+            1,
+            3
+          ],
+          "name": "中等的蓝色菱形",
+          "coordinate": [
+            49,
+            -55
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            0,
+            4
+          ],
+          "name": "大的红色正三角形",
+          "coordinate": [
+            90,
+            74
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            1,
+            0,
+            2
+          ],
+          "name": "中等的红色长方形",
+          "coordinate": [
+            65,
+            47
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            0,
+            6,
+            4
+          ],
+          "name": "小的橙色正三角形",
+          "coordinate": [
+            52,
+            85
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的黑色菱形相对大的红色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的红色正三角形相对中等的红色长方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色正三角形相对中等的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色正三角形相对中等的红色长方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的红色长方形相对小的橙色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色菱形是否位于大的红色正三角形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色正三角形是否位于大的红色正三角形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色正三角形是否位于中等的蓝色菱形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色正三角形是否位于中等的红色长方形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的黑色菱形是否位于小的橙色正三角形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的黑色菱形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的红色正三角形",
+          "B.小的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的黑色菱形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的橙色正三角形",
+          "B.中等的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色正三角形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的蓝色菱形",
+          "B.大的红色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的黑色菱形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的蓝色菱形",
+          "B.小的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的黑色菱形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的红色正三角形",
+          "B.中等的红色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的蓝色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的黑色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色正三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的红色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的黑色菱形、一个中等的橙色正三角形、一个中等的蓝色菱形。在区块1中，有一个大的红色正三角形、一个中等的红色长方形。在区块2中，有一个小的橙色正三角形。其中中等的黑色菱形位于中等的橙色正三角形的左上；中等的红色长方形位于中等的橙色正三角形的右上；小的橙色正三角形位于中等的红色长方形的左上；大的红色正三角形位于小的橙色正三角形的右下；中等的蓝色菱形位于小的橙色正三角形的左下；小的橙色正三角形位于中等的黑色菱形的右下；大的红色正三角形位于中等的红色长方形的右上；中等的橙色正三角形位于中等的蓝色菱形的左上。"
+  },
+  {
+    "id": "Spatial_3",
+    "scene": {
+      "scene_id": 3,
+      "block_count": 2,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            6,
+            0
+          ],
+          "name": "小的橙色圆形",
+          "coordinate": [
+            80,
+            -3
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            6,
+            3
+          ],
+          "name": "大的橙色菱形",
+          "coordinate": [
+            10,
+            -36
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            3,
+            2
+          ],
+          "name": "小的黑色长方形",
+          "coordinate": [
+            46,
+            10
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            1,
+            3,
+            4
+          ],
+          "name": "中等的黑色正三角形",
+          "coordinate": [
+            66,
+            -27
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            0,
+            3
+          ],
+          "name": "大的红色菱形",
+          "coordinate": [
+            61,
+            22
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的黑色正三角形相对大的红色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的橙色圆形相对大的红色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的黑色长方形相对大的红色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的橙色圆形相对中等的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色菱形相对小的黑色长方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的橙色圆形是否位于大的红色菱形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的橙色圆形是否位于大的橙色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色菱形是否位于小的黑色长方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色菱形是否位于大的红色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色菱形是否位于中等的黑色正三角形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色圆形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的黑色长方形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色圆形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.大的橙色菱形",
+          "B.大的红色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色圆形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的橙色菱形",
+          "B.小的黑色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色菱形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的黑色长方形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色菱形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的黑色正三角形",
+          "B.大的红色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的黑色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的黑色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色菱形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的橙色圆形、一个大的橙色菱形、一个小的黑色长方形。在区块1中，有一个中等的黑色正三角形、一个大的红色菱形。其中中等的黑色正三角形位于大的橙色菱形的右上；中等的黑色正三角形位于大的红色菱形的右下；大的橙色菱形位于小的黑色长方形的左下；大的红色菱形位于小的黑色长方形的右上；小的橙色圆形位于中等的黑色正三角形的右上；小的黑色长方形位于小的橙色圆形的左上。"
+  },
+  {
+    "id": "Spatial_4",
+    "scene": {
+      "scene_id": 4,
+      "block_count": 2,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            5,
+            6
+          ],
+          "name": "大的紫色直角三角形",
+          "coordinate": [
+            100,
+            -96
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            0,
+            3
+          ],
+          "name": "大的红色菱形",
+          "coordinate": [
+            -10,
+            -21
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            3,
+            0
+          ],
+          "name": "大的黑色圆形",
+          "coordinate": [
+            61,
+            50
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            5,
+            1
+          ],
+          "name": "大的紫色正方形",
+          "coordinate": [
+            28,
+            99
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            2,
+            0
+          ],
+          "name": "小的绿色圆形",
+          "coordinate": [
+            17,
+            86
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的紫色直角三角形相对小的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的紫色正方形相对小的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的红色菱形相对小的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的黑色圆形相对大的紫色正方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的黑色圆形相对小的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色菱形是否位于小的绿色圆形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色正方形是否位于小的绿色圆形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于大的紫色正方形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于小的绿色圆形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于大的黑色圆形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的紫色直角三角形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的红色菱形",
+          "B.大的紫色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的紫色正方形",
+          "B.小的绿色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的黑色圆形",
+          "B.小的绿色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的紫色直角三角形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的红色菱形",
+          "B.大的黑色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色圆形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的紫色正方形",
+          "B.小的绿色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的绿色圆形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色圆形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的紫色直角三角形、一个大的红色菱形。在区块1中，有一个大的黑色圆形、一个大的紫色正方形、一个小的绿色圆形。其中小的绿色圆形位于大的黑色圆形的左上；大的黑色圆形位于大的红色菱形的右上；大的黑色圆形位于大的紫色直角三角形的左上；大的红色菱形位于小的绿色圆形的左下；大的紫色正方形位于小的绿色圆形的右上；大的紫色直角三角形位于大的红色菱形的右下；大的紫色正方形位于大的黑色圆形的左上。"
+  },
+  {
+    "id": "Spatial_5",
+    "scene": {
+      "scene_id": 5,
+      "block_count": 3,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            0,
+            3
+          ],
+          "name": "小的红色菱形",
+          "coordinate": [
+            -62,
+            -71
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            0,
+            4,
+            5
+          ],
+          "name": "小的白色梯形",
+          "coordinate": [
+            93,
+            32
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            6,
+            2
+          ],
+          "name": "大的橙色长方形",
+          "coordinate": [
+            -21,
+            -13
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            6,
+            5
+          ],
+          "name": "小的橙色梯形",
+          "coordinate": [
+            -85,
+            12
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            5,
+            2
+          ],
+          "name": "大的紫色长方形",
+          "coordinate": [
+            -71,
+            29
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "小的橙色梯形相对大的紫色长方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色长方形相对大的紫色长方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色梯形相对大的橙色长方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的红色菱形相对小的白色梯形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的红色菱形相对大的橙色长方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色菱形是否位于大的紫色长方形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的橙色梯形是否位于大的紫色长方形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色梯形是否位于小的橙色梯形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色梯形是否位于大的紫色长方形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色菱形是否位于小的白色梯形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色菱形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的橙色梯形",
+          "B.大的紫色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色梯形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的橙色长方形",
+          "B.大的紫色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色菱形的上方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的橙色长方形",
+          "B.小的橙色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色菱形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的白色梯形",
+          "B.小的橙色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色梯形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的橙色梯形",
+          "B.大的紫色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的红色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色梯形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色长方形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的白色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的红色菱形、一个小的白色梯形。在区块1中，有一个大的橙色长方形、一个小的橙色梯形。在区块2中，有一个大的紫色长方形。其中大的紫色长方形位于小的白色梯形的左下；小的红色菱形位于大的紫色长方形的右下；大的橙色长方形位于小的红色菱形的右上；大的橙色长方形位于小的白色梯形的左下；小的橙色梯形位于大的橙色长方形的左上；小的橙色梯形位于大的紫色长方形的左下。"
+  },
+  {
+    "id": "Spatial_6",
+    "scene": {
+      "scene_id": 6,
+      "block_count": 3,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            1,
+            2
+          ],
+          "name": "大的蓝色长方形",
+          "coordinate": [
+            -65,
+            -57
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            6,
+            2
+          ],
+          "name": "大的橙色长方形",
+          "coordinate": [
+            70,
+            6
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            1,
+            1
+          ],
+          "name": "大的蓝色正方形",
+          "coordinate": [
+            -88,
+            23
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            1,
+            6,
+            4
+          ],
+          "name": "中等的橙色正三角形",
+          "coordinate": [
+            44,
+            70
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            3,
+            1
+          ],
+          "name": "小的黑色正方形",
+          "coordinate": [
+            -40,
+            -70
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的蓝色长方形相对大的橙色长方形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色长方形相对小的黑色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色长方形相对中等的橙色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的蓝色长方形相对中等的橙色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的蓝色正方形相对中等的橙色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色长方形是否位于大的蓝色正方形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的蓝色长方形是否位于小的黑色正方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的蓝色长方形是否位于大的橙色长方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色正三角形是否位于小的黑色正方形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的蓝色正方形是否位于中等的橙色正三角形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色长方形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.中等的橙色正三角形",
+          "B.小的黑色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的蓝色长方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.大的蓝色正方形",
+          "B.小的黑色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的蓝色长方形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的橙色长方形",
+          "B.小的黑色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色长方形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.大的蓝色正方形",
+          "B.小的黑色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的蓝色长方形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的橙色长方形",
+          "B.中等的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的黑色正方形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的蓝色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的蓝色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的蓝色长方形。在区块1中，有一个大的橙色长方形、一个大的蓝色正方形、一个中等的橙色正三角形。在区块2中，有一个小的黑色正方形。其中大的蓝色正方形位于中等的橙色正三角形的左下；大的橙色长方形位于中等的橙色正三角形的右下；中等的橙色正三角形位于小的黑色正方形的右上；大的蓝色长方形位于大的橙色长方形的左下；小的黑色正方形位于大的蓝色长方形的右下；大的蓝色正方形位于大的蓝色长方形的左上；大的蓝色正方形位于大的橙色长方形的左上。"
+  },
+  {
+    "id": "Spatial_7",
+    "scene": {
+      "scene_id": 7,
+      "block_count": 2,
+      "object_count": 7,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            6,
+            5
+          ],
+          "name": "中等的橙色梯形",
+          "coordinate": [
+            50,
+            77
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            0,
+            0,
+            2
+          ],
+          "name": "小的红色长方形",
+          "coordinate": [
+            56,
+            -86
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            3,
+            5
+          ],
+          "name": "小的黑色梯形",
+          "coordinate": [
+            78,
+            48
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            5,
+            3
+          ],
+          "name": "小的紫色菱形",
+          "coordinate": [
+            -43,
+            60
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            2,
+            5
+          ],
+          "name": "大的绿色梯形",
+          "coordinate": [
+            -45,
+            -83
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            5,
+            4
+          ],
+          "name": "中等的紫色正三角形",
+          "coordinate": [
+            -63,
+            93
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            1,
+            3,
+            4
+          ],
+          "name": "中等的黑色正三角形",
+          "coordinate": [
+            -64,
+            -36
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的紫色正三角形相对中等的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的红色长方形相对小的紫色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的红色长方形相对中等的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的紫色菱形相对中等的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色梯形相对中等的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色梯形是否位于大的绿色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色长方形是否位于小的黑色梯形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的紫色菱形是否位于中等的黑色正三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色长方形是否位于小的紫色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色长方形是否位于大的绿色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的黑色梯形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的绿色梯形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色梯形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的紫色菱形",
+          "B.大的绿色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色菱形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的绿色梯形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色长方形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的紫色正三角形",
+          "B.中等的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.小的红色长方形",
+          "B.小的紫色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的绿色梯形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的黑色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的红色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的紫色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的橙色梯形、一个小的红色长方形、一个小的黑色梯形。在区块1中，有一个小的紫色菱形、一个大的绿色梯形、一个中等的紫色正三角形、一个中等的黑色正三角形。其中中等的黑色正三角形位于大的绿色梯形的左上；中等的紫色正三角形位于中等的黑色正三角形的右上；小的黑色梯形位于中等的黑色正三角形的右上；中等的橙色梯形位于中等的紫色正三角形的右下；中等的橙色梯形位于小的红色长方形的左上；小的红色长方形位于小的黑色梯形的左下；小的紫色菱形位于小的黑色梯形的左上；大的绿色梯形位于中等的紫色正三角形的右下；小的紫色菱形位于大的绿色梯形的右上；大的绿色梯形位于小的红色长方形的左上；小的紫色菱形位于中等的橙色梯形的左下。"
+  },
+  {
+    "id": "Spatial_8",
+    "scene": {
+      "scene_id": 8,
+      "block_count": 3,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            1,
+            4
+          ],
+          "name": "中等的蓝色正三角形",
+          "coordinate": [
+            -82,
+            -33
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            6,
+            6
+          ],
+          "name": "中等的橙色直角三角形",
+          "coordinate": [
+            80,
+            69
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            3,
+            3
+          ],
+          "name": "大的黑色菱形",
+          "coordinate": [
+            43,
+            86
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            5,
+            4
+          ],
+          "name": "小的紫色正三角形",
+          "coordinate": [
+            41,
+            -38
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            2,
+            1
+          ],
+          "name": "小的绿色正方形",
+          "coordinate": [
+            97,
+            -31
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            0,
+            1,
+            5
+          ],
+          "name": "小的蓝色梯形",
+          "coordinate": [
+            86,
+            -97
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 6,
+          "number": [
+            0,
+            2,
+            0
+          ],
+          "name": "小的绿色圆形",
+          "coordinate": [
+            6,
+            -35
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 7,
+          "number": [
+            2,
+            6,
+            3
+          ],
+          "name": "大的橙色菱形",
+          "coordinate": [
+            -48,
+            80
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 8,
+          "number": [
+            1,
+            0,
+            3
+          ],
+          "name": "中等的红色菱形",
+          "coordinate": [
+            -12,
+            63
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "小的绿色正方形相对小的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的黑色菱形相对中等的红色菱形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的蓝色正三角形相对小的紫色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色直角三角形相对中等的红色菱形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的蓝色正三角形相对大的橙色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色正三角形是否位于小的绿色圆形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色直角三角形是否位于中等的红色菱形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色正三角形是否位于小的蓝色梯形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的紫色正三角形是否位于中等的红色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的蓝色正三角形是否位于中等的橙色直角三角形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色直角三角形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的绿色圆形",
+          "B.中等的红色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的蓝色正三角形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的绿色正方形",
+          "B.大的橙色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的蓝色正三角形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.小的绿色圆形",
+          "B.大的橙色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色正三角形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的绿色正方形",
+          "B.大的橙色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色直角三角形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的紫色正三角形",
+          "B.小的绿色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的红色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的蓝色正三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的紫色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的蓝色正三角形、一个中等的橙色直角三角形、一个大的黑色菱形。在区块1中，有一个小的紫色正三角形、一个小的绿色正方形。在区块2中，有一个小的蓝色梯形、一个小的绿色圆形、一个大的橙色菱形、一个中等的红色菱形。其中小的绿色圆形位于小的紫色正三角形的左上；大的橙色菱形位于中等的蓝色正三角形的右上；大的橙色菱形位于中等的红色菱形的左上；小的紫色正三角形位于小的蓝色梯形的左上；大的橙色菱形位于大的黑色菱形的左下；中等的橙色直角三角形位于小的蓝色梯形的左上；小的绿色正方形位于小的蓝色梯形的右上；中等的红色菱形位于小的绿色圆形的左上；大的黑色菱形位于中等的橙色直角三角形的左上；中等的橙色直角三角形位于大的橙色菱形的右下；中等的蓝色正三角形位于小的绿色正方形的左下；小的紫色正三角形位于大的黑色菱形的左下；中等的蓝色正三角形位于小的绿色圆形的左上；中等的红色菱形位于中等的橙色直角三角形的左下；中等的红色菱形位于小的绿色正方形的左上。"
+  },
+  {
+    "id": "Spatial_9",
+    "scene": {
+      "scene_id": 9,
+      "block_count": 2,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            6,
+            0
+          ],
+          "name": "大的橙色圆形",
+          "coordinate": [
+            -7,
+            81
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            3,
+            0
+          ],
+          "name": "大的黑色圆形",
+          "coordinate": [
+            83,
+            -74
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            4,
+            4
+          ],
+          "name": "小的白色正三角形",
+          "coordinate": [
+            -89,
+            26
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            1,
+            5,
+            3
+          ],
+          "name": "中等的紫色菱形",
+          "coordinate": [
+            41,
+            91
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            3,
+            0
+          ],
+          "name": "小的黑色圆形",
+          "coordinate": [
+            -3,
+            64
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            2,
+            5,
+            1
+          ],
+          "name": "大的紫色正方形",
+          "coordinate": [
+            72,
+            67
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            0,
+            1,
+            5
+          ],
+          "name": "小的蓝色梯形",
+          "coordinate": [
+            54,
+            89
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            2,
+            1
+          ],
+          "name": "小的绿色正方形",
+          "coordinate": [
+            -83,
+            7
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 8,
+          "number": [
+            0,
+            6,
+            6
+          ],
+          "name": "小的橙色直角三角形",
+          "coordinate": [
+            -59,
+            -1
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的橙色圆形相对中等的紫色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色圆形相对小的黑色圆形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色正三角形相对小的蓝色梯形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色梯形相对小的橙色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的紫色菱形相对小的黑色圆形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色圆形是否位于小的白色正三角形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色圆形是否位于小的橙色直角三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色正三角形是否位于大的紫色正方形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色正三角形是否位于小的橙色直角三角形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色圆形是否位于大的紫色正方形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色正三角形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的紫色正方形",
+          "B.小的绿色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色正三角形的下方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的紫色菱形",
+          "B.小的黑色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色圆形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的白色正三角形",
+          "B.小的蓝色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色圆形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的紫色菱形",
+          "B.小的黑色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色圆形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.小的白色正三角形",
+          "B.小的蓝色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的绿色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的白色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的橙色圆形、一个大的黑色圆形。在区块1中，有一个小的白色正三角形、一个中等的紫色菱形、一个小的黑色圆形、一个大的紫色正方形、一个小的蓝色梯形、一个小的绿色正方形、一个小的橙色直角三角形。其中大的紫色正方形位于大的黑色圆形的左上；大的紫色正方形位于小的蓝色梯形的右下；大的紫色正方形位于大的橙色圆形的右下；大的橙色圆形位于小的蓝色梯形的左下；大的黑色圆形位于小的橙色直角三角形的右下；中等的紫色菱形位于小的黑色圆形的右上；大的橙色圆形位于小的黑色圆形的左上；小的绿色正方形位于小的白色正三角形的右下；小的黑色圆形位于小的白色正三角形的右上；小的黑色圆形位于大的紫色正方形的左下；大的橙色圆形位于小的橙色直角三角形的右上；小的绿色正方形位于小的橙色直角三角形的左上；小的蓝色梯形位于中等的紫色菱形的右下。"
+  },
+  {
+    "id": "Spatial_10",
+    "scene": {
+      "scene_id": 10,
+      "block_count": 3,
+      "object_count": 8,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            6,
+            3
+          ],
+          "name": "中等的橙色菱形",
+          "coordinate": [
+            -90,
+            10
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            0,
+            5
+          ],
+          "name": "中等的红色梯形",
+          "coordinate": [
+            28,
+            -81
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            4,
+            1
+          ],
+          "name": "大的白色正方形",
+          "coordinate": [
+            -73,
+            -95
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            6,
+            3
+          ],
+          "name": "小的橙色菱形",
+          "coordinate": [
+            -23,
+            12
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            5,
+            2
+          ],
+          "name": "大的紫色长方形",
+          "coordinate": [
+            -24,
+            -7
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            1,
+            3
+          ],
+          "name": "中等的蓝色菱形",
+          "coordinate": [
+            20,
+            -72
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 6,
+          "number": [
+            1,
+            2,
+            0
+          ],
+          "name": "中等的绿色圆形",
+          "coordinate": [
+            3,
+            67
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            3,
+            3
+          ],
+          "name": "小的黑色菱形",
+          "coordinate": [
+            -75,
+            -68
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的橙色菱形相对中等的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的红色梯形相对大的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色菱形相对大的紫色长方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色菱形相对大的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的红色梯形相对小的橙色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的红色梯形是否位于中等的蓝色菱形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色长方形是否位于中等的绿色圆形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的白色正方形是否位于小的黑色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色菱形是否位于大的紫色长方形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色菱形是否位于中等的绿色圆形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色菱形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的紫色长方形",
+          "B.中等的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色菱形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的白色正方形",
+          "B.中等的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的白色正方形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的橙色菱形",
+          "B.大的紫色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的蓝色菱形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的绿色圆形",
+          "B.小的黑色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色菱形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的紫色长方形",
+          "B.小的黑色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的蓝色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色菱形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的黑色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的绿色圆形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的橙色菱形、一个中等的红色梯形、一个大的白色正方形。在区块1中，有一个小的橙色菱形、一个大的紫色长方形。在区块2中，有一个中等的蓝色菱形、一个中等的绿色圆形、一个小的黑色菱形。其中小的黑色菱形位于大的紫色长方形的左下；小的橙色菱形位于中等的绿色圆形的左下；中等的蓝色菱形位于中等的红色梯形的左上；中等的橙色菱形位于小的黑色菱形的左上；中等的蓝色菱形位于小的黑色菱形的右下；大的白色正方形位于小的黑色菱形的右下；大的紫色长方形位于中等的橙色菱形的右下；大的白色正方形位于大的紫色长方形的左下；中等的蓝色菱形位于中等的绿色圆形的右下；小的橙色菱形位于大的紫色长方形的右上；大的白色正方形位于中等的红色梯形的左下；小的橙色菱形位于中等的橙色菱形的右上。"
+  },
+  {
+    "id": "Spatial_11",
+    "scene": {
+      "scene_id": 11,
+      "block_count": 3,
+      "object_count": 8,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            6,
+            6
+          ],
+          "name": "中等的橙色直角三角形",
+          "coordinate": [
+            78,
+            58
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            0,
+            1,
+            4
+          ],
+          "name": "小的蓝色正三角形",
+          "coordinate": [
+            6,
+            84
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            5,
+            5
+          ],
+          "name": "小的紫色梯形",
+          "coordinate": [
+            -50,
+            94
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            1,
+            6,
+            0
+          ],
+          "name": "中等的橙色圆形",
+          "coordinate": [
+            72,
+            -60
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            0,
+            3
+          ],
+          "name": "大的红色菱形",
+          "coordinate": [
+            -90,
+            74
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            0,
+            3
+          ],
+          "name": "中等的红色菱形",
+          "coordinate": [
+            54,
+            25
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 6,
+          "number": [
+            1,
+            0,
+            6
+          ],
+          "name": "中等的红色直角三角形",
+          "coordinate": [
+            79,
+            -65
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            3,
+            3
+          ],
+          "name": "小的黑色菱形",
+          "coordinate": [
+            -40,
+            -51
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的红色菱形相对小的黑色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的红色菱形相对中等的红色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色圆形相对大的红色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色正三角形相对中等的红色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色直角三角形相对大的红色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的红色菱形是否位于中等的红色直角三角形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色菱形是否位于小的黑色菱形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色直角三角形是否位于小的紫色梯形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色直角三角形是否位于大的红色菱形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色直角三角形是否位于中等的橙色圆形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色梯形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的红色菱形",
+          "B.中等的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色直角三角形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的红色直角三角形",
+          "B.小的黑色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色直角三角形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.小的蓝色正三角形",
+          "B.中等的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色圆形的上方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的红色菱形",
+          "B.小的黑色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色直角三角形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.中等的红色菱形",
+          "B.中等的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的红色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的红色直角三角形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的蓝色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的橙色直角三角形。在区块1中，有一个小的蓝色正三角形、一个小的紫色梯形。在区块2中，有一个中等的橙色圆形、一个大的红色菱形、一个中等的红色菱形、一个中等的红色直角三角形、一个小的黑色菱形。其中小的紫色梯形位于小的蓝色正三角形的左上；中等的橙色直角三角形位于大的红色菱形的右下；中等的红色菱形位于小的黑色菱形的右上；小的蓝色正三角形位于中等的红色菱形的左上；中等的橙色圆形位于中等的橙色直角三角形的左下；中等的橙色直角三角形位于中等的红色菱形的右上；小的蓝色正三角形位于小的黑色菱形的右上；大的红色菱形位于小的紫色梯形的左下；中等的橙色圆形位于中等的红色菱形的右下；小的紫色梯形位于小的黑色菱形的左上；中等的红色直角三角形位于中等的橙色圆形的右下；小的黑色菱形位于中等的橙色圆形的左上；中等的橙色直角三角形位于中等的红色直角三角形的左上；小的蓝色正三角形位于大的红色菱形的右上。"
+  },
+  {
+    "id": "Spatial_12",
+    "scene": {
+      "scene_id": 12,
+      "block_count": 2,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            3,
+            6
+          ],
+          "name": "大的黑色直角三角形",
+          "coordinate": [
+            -70,
+            36
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            2,
+            6
+          ],
+          "name": "大的绿色直角三角形",
+          "coordinate": [
+            -95,
+            76
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            6,
+            4
+          ],
+          "name": "小的橙色正三角形",
+          "coordinate": [
+            74,
+            56
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            6,
+            0
+          ],
+          "name": "小的橙色圆形",
+          "coordinate": [
+            79,
+            -81
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 4,
+          "number": [
+            1,
+            5,
+            0
+          ],
+          "name": "中等的紫色圆形",
+          "coordinate": [
+            -91,
+            59
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            4,
+            2
+          ],
+          "name": "中等的白色长方形",
+          "coordinate": [
+            -68,
+            78
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            2,
+            0,
+            2
+          ],
+          "name": "大的红色长方形",
+          "coordinate": [
+            -69,
+            44
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            2,
+            5
+          ],
+          "name": "小的绿色梯形",
+          "coordinate": [
+            -85,
+            5
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 8,
+          "number": [
+            2,
+            1,
+            3
+          ],
+          "name": "大的蓝色菱形",
+          "coordinate": [
+            -37,
+            -65
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的黑色直角三角形相对大的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的白色长方形相对大的蓝色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的橙色圆形相对中等的白色长方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的橙色正三角形相对大的红色长方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的红色长方形相对小的绿色梯形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的白色长方形是否位于大的蓝色菱形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色长方形是否位于小的绿色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色直角三角形是否位于中等的白色长方形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的绿色直角三角形是否位于小的橙色圆形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的橙色正三角形是否位于小的橙色圆形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色直角三角形的上方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的橙色正三角形",
+          "B.中等的紫色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色直角三角形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.大的红色长方形",
+          "B.大的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色圆形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的紫色圆形",
+          "B.大的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的绿色直角三角形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的红色长方形",
+          "B.小的绿色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的白色长方形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.小的绿色梯形",
+          "B.大的蓝色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的绿色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的白色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的绿色梯形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的黑色直角三角形、一个大的绿色直角三角形、一个小的橙色正三角形、一个小的橙色圆形、一个中等的紫色圆形。在区块1中，有一个中等的白色长方形、一个大的红色长方形、一个小的绿色梯形、一个大的蓝色菱形。其中小的绿色梯形位于大的蓝色菱形的左上；中等的紫色圆形位于小的橙色正三角形的左上；大的绿色直角三角形位于中等的白色长方形的左下；大的黑色直角三角形位于大的红色长方形的左下；大的黑色直角三角形位于小的绿色梯形的右上；大的蓝色菱形位于中等的白色长方形的右下；小的橙色正三角形位于小的橙色圆形的左上；大的红色长方形位于中等的白色长方形的左下；大的蓝色菱形位于小的橙色圆形的左上；中等的紫色圆形位于小的绿色梯形的左上；大的红色长方形位于小的橙色正三角形的左下；大的绿色直角三角形位于中等的紫色圆形的左上；大的蓝色菱形位于小的橙色正三角形的左下。"
+  },
+  {
+    "id": "Spatial_13",
+    "scene": {
+      "scene_id": 13,
+      "block_count": 2,
+      "object_count": 5,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            1,
+            4,
+            0
+          ],
+          "name": "中等的白色圆形",
+          "coordinate": [
+            -10,
+            96
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            0,
+            4,
+            0
+          ],
+          "name": "小的白色圆形",
+          "coordinate": [
+            -69,
+            -27
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            2,
+            5,
+            6
+          ],
+          "name": "大的紫色直角三角形",
+          "coordinate": [
+            93,
+            26
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            3,
+            5
+          ],
+          "name": "小的黑色梯形",
+          "coordinate": [
+            -96,
+            22
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            4,
+            1
+          ],
+          "name": "小的白色正方形",
+          "coordinate": [
+            -32,
+            -33
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的紫色直角三角形相对小的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色圆形相对小的黑色梯形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的白色圆形相对小的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色圆形相对小的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的紫色直角三角形相对小的黑色梯形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的白色圆形是否位于小的黑色梯形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于小的黑色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于小的白色正方形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的黑色梯形是否位于小的白色正方形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色圆形是否位于大的紫色直角三角形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色圆形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.大的紫色直角三角形",
+          "B.小的黑色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的白色圆形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的白色圆形",
+          "B.小的黑色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的紫色直角三角形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的黑色梯形",
+          "B.小的白色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的白色圆形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的白色圆形",
+          "B.小的白色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的白色圆形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的紫色直角三角形",
+          "B.小的白色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的黑色梯形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的白色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的白色正方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色直角三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的白色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个中等的白色圆形、一个小的白色圆形。在区块1中，有一个大的紫色直角三角形、一个小的黑色梯形、一个小的白色正方形。其中小的黑色梯形位于小的白色圆形的左上；小的黑色梯形位于大的紫色直角三角形的左下；大的紫色直角三角形位于中等的白色圆形的右下；小的白色圆形位于小的白色正方形的左上；中等的白色圆形位于小的白色正方形的右上。"
+  },
+  {
+    "id": "Spatial_14",
+    "scene": {
+      "scene_id": 14,
+      "block_count": 2,
+      "object_count": 6,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            0,
+            3
+          ],
+          "name": "大的红色菱形",
+          "coordinate": [
+            -1,
+            -40
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            1,
+            6,
+            5
+          ],
+          "name": "中等的橙色梯形",
+          "coordinate": [
+            31,
+            61
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            6,
+            1
+          ],
+          "name": "小的橙色正方形",
+          "coordinate": [
+            -82,
+            94
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            4,
+            6
+          ],
+          "name": "小的白色直角三角形",
+          "coordinate": [
+            87,
+            -93
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            5,
+            6
+          ],
+          "name": "大的紫色直角三角形",
+          "coordinate": [
+            7,
+            -77
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            2,
+            6,
+            3
+          ],
+          "name": "大的橙色菱形",
+          "coordinate": [
+            90,
+            10
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的橙色梯形相对小的橙色正方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的红色菱形相对小的白色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色直角三角形相对大的橙色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色梯形相对小的白色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色梯形相对大的橙色菱形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的白色直角三角形是否位于大的橙色菱形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的橙色梯形是否位于小的橙色正方形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色菱形是否位于小的橙色正方形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色直角三角形是否位于大的橙色菱形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色菱形是否位于中等的橙色梯形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.中等的橙色梯形",
+          "B.大的紫色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.小的橙色正方形",
+          "B.大的紫色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色正方形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的白色直角三角形",
+          "B.大的紫色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的白色直角三角形",
+          "B.大的紫色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.中等的橙色梯形",
+          "B.小的白色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色正方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色菱形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色直角三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的红色菱形、一个中等的橙色梯形、一个小的橙色正方形、一个小的白色直角三角形。在区块1中，有一个大的紫色直角三角形、一个大的橙色菱形。其中中等的橙色梯形位于大的紫色直角三角形的右上；大的橙色菱形位于中等的橙色梯形的右下；大的红色菱形位于小的橙色正方形的右下；大的紫色直角三角形位于大的红色菱形的右下；大的橙色菱形位于大的红色菱形的右上；中等的橙色梯形位于小的白色直角三角形的左上；中等的橙色梯形位于小的橙色正方形的右下；大的紫色直角三角形位于小的白色直角三角形的左上；小的白色直角三角形位于大的橙色菱形的左下。"
+  },
+  {
+    "id": "Spatial_15",
+    "scene": {
+      "scene_id": 15,
+      "block_count": 2,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            5,
+            3
+          ],
+          "name": "小的紫色菱形",
+          "coordinate": [
+            10,
+            85
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            6,
+            5
+          ],
+          "name": "大的橙色梯形",
+          "coordinate": [
+            35,
+            8
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            0,
+            1
+          ],
+          "name": "小的红色正方形",
+          "coordinate": [
+            -25,
+            -18
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            3,
+            5
+          ],
+          "name": "大的黑色梯形",
+          "coordinate": [
+            33,
+            -97
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            4,
+            1
+          ],
+          "name": "大的白色正方形",
+          "coordinate": [
+            25,
+            -81
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            5,
+            0
+          ],
+          "name": "中等的紫色圆形",
+          "coordinate": [
+            22,
+            -100
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 6,
+          "number": [
+            1,
+            4,
+            2
+          ],
+          "name": "中等的白色长方形",
+          "coordinate": [
+            32,
+            -27
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            3,
+            6
+          ],
+          "name": "小的黑色直角三角形",
+          "coordinate": [
+            -73,
+            92
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 8,
+          "number": [
+            2,
+            0,
+            6
+          ],
+          "name": "大的红色直角三角形",
+          "coordinate": [
+            20,
+            16
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "小的紫色菱形相对小的红色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的紫色菱形相对中等的白色长方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色梯形相对大的黑色梯形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色梯形相对大的白色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的黑色梯形相对大的白色正方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色正方形是否位于中等的紫色圆形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的黑色直角三角形是否位于大的红色直角三角形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的白色正方形是否位于小的黑色直角三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的紫色圆形是否位于小的黑色直角三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的紫色菱形是否位于小的红色正方形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色梯形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的黑色梯形",
+          "B.中等的紫色圆形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的紫色圆形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.中等的白色长方形",
+          "B.大的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色菱形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的黑色梯形",
+          "B.大的白色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色菱形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的白色正方形",
+          "B.大的红色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色梯形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的紫色圆形",
+          "B.中等的白色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的白色长方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的紫色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色直角三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的红色正方形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的紫色菱形、一个大的橙色梯形、一个小的红色正方形、一个大的黑色梯形、一个大的白色正方形、一个中等的紫色圆形、一个中等的白色长方形。在区块1中，有一个小的黑色直角三角形、一个大的红色直角三角形。其中大的橙色梯形位于小的红色正方形的右上；大的黑色梯形位于中等的白色长方形的右下；大的黑色梯形位于大的白色正方形的右下；中等的紫色圆形位于大的黑色梯形的左下；大的白色正方形位于中等的白色长方形的左下；小的黑色直角三角形位于小的紫色菱形的左上；大的黑色梯形位于大的橙色梯形的左下；小的红色正方形位于中等的白色长方形的左上；大的红色直角三角形位于小的紫色菱形的右下；小的黑色直角三角形位于小的红色正方形的左上；中等的紫色圆形位于大的红色直角三角形的右下；大的橙色梯形位于大的红色直角三角形的右下；大的白色正方形位于中等的紫色圆形的右上；小的紫色菱形位于小的红色正方形的右上。"
+  },
+  {
+    "id": "Spatial_16",
+    "scene": {
+      "scene_id": 16,
+      "block_count": 3,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            1,
+            3
+          ],
+          "name": "小的蓝色菱形",
+          "coordinate": [
+            -88,
+            -45
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            3,
+            3
+          ],
+          "name": "大的黑色菱形",
+          "coordinate": [
+            -85,
+            -24
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            6,
+            5
+          ],
+          "name": "小的橙色梯形",
+          "coordinate": [
+            76,
+            -14
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            0,
+            6
+          ],
+          "name": "小的红色直角三角形",
+          "coordinate": [
+            -6,
+            -79
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            5,
+            3
+          ],
+          "name": "大的紫色菱形",
+          "coordinate": [
+            -80,
+            -44
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 5,
+          "number": [
+            0,
+            0,
+            5
+          ],
+          "name": "小的红色梯形",
+          "coordinate": [
+            -38,
+            -77
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 6,
+          "number": [
+            2,
+            1,
+            6
+          ],
+          "name": "大的蓝色直角三角形",
+          "coordinate": [
+            -72,
+            -16
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 7,
+          "number": [
+            1,
+            4,
+            3
+          ],
+          "name": "中等的白色菱形",
+          "coordinate": [
+            68,
+            2
+          ],
+          "block": 2
+        },
+        {
+          "object_id": 8,
+          "number": [
+            2,
+            2,
+            3
+          ],
+          "name": "大的绿色菱形",
+          "coordinate": [
+            -78,
+            -12
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的紫色菱形相对中等的白色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色菱形相对大的绿色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色菱形相对大的黑色菱形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色菱形相对大的蓝色直角三角形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的黑色菱形相对小的红色梯形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色菱形是否位于中等的白色菱形的右侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色菱形是否位于大的紫色菱形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色菱形是否位于小的红色梯形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的紫色菱形是否位于大的绿色菱形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色直角三角形是否位于大的绿色菱形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色直角三角形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的红色梯形",
+          "B.大的蓝色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的蓝色菱形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.小的红色梯形",
+          "B.大的蓝色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的蓝色菱形的右侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的红色直角三角形",
+          "B.大的蓝色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的橙色梯形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.大的紫色菱形",
+          "B.小的红色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色菱形的左侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的紫色菱形",
+          "B.大的绿色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色菱形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的蓝色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的红色梯形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的黑色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的蓝色菱形、一个大的黑色菱形、一个小的橙色梯形。在区块1中，有一个小的红色直角三角形。在区块2中，有一个大的紫色菱形、一个小的红色梯形、一个大的蓝色直角三角形、一个中等的白色菱形、一个大的绿色菱形。其中中等的白色菱形位于大的绿色菱形的右上；小的红色梯形位于大的蓝色直角三角形的右下；中等的白色菱形位于小的橙色梯形的左上；小的橙色梯形位于大的蓝色直角三角形的右上；大的绿色菱形位于小的橙色梯形的左上；大的绿色菱形位于大的蓝色直角三角形的左上；小的红色直角三角形位于小的红色梯形的右下；小的蓝色菱形位于大的黑色菱形的左下；大的绿色菱形位于大的紫色菱形的右上；大的蓝色直角三角形位于大的黑色菱形的右上；大的黑色菱形位于大的紫色菱形的左上；小的蓝色菱形位于大的紫色菱形的左下；小的红色直角三角形位于中等的白色菱形的左下；小的蓝色菱形位于小的红色梯形的左上。"
+  },
+  {
+    "id": "Spatial_17",
+    "scene": {
+      "scene_id": 17,
+      "block_count": 2,
+      "object_count": 8,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            2,
+            4
+          ],
+          "name": "大的绿色正三角形",
+          "coordinate": [
+            62,
+            -43
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            6,
+            0
+          ],
+          "name": "大的橙色圆形",
+          "coordinate": [
+            98,
+            48
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            0,
+            1,
+            6
+          ],
+          "name": "小的蓝色直角三角形",
+          "coordinate": [
+            -40,
+            -50
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            6,
+            6
+          ],
+          "name": "大的橙色直角三角形",
+          "coordinate": [
+            38,
+            -39
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 4,
+          "number": [
+            1,
+            5,
+            4
+          ],
+          "name": "中等的紫色正三角形",
+          "coordinate": [
+            87,
+            63
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 5,
+          "number": [
+            1,
+            5,
+            6
+          ],
+          "name": "中等的紫色直角三角形",
+          "coordinate": [
+            -30,
+            31
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            0,
+            3,
+            4
+          ],
+          "name": "小的黑色正三角形",
+          "coordinate": [
+            15,
+            -52
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            5,
+            3
+          ],
+          "name": "小的紫色菱形",
+          "coordinate": [
+            -69,
+            84
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "大的橙色圆形相对中等的紫色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色直角三角形相对小的黑色正三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色直角三角形相对小的紫色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的蓝色直角三角形相对大的橙色直角三角形的空间关系是什么？（四选二）",
+        "answer": "B,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的紫色正三角形相对小的紫色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色直角三角形是否位于小的黑色正三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的紫色直角三角形是否位于小的紫色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的蓝色直角三角形是否位于小的紫色菱形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的黑色正三角形是否位于小的紫色菱形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的绿色正三角形是否位于小的紫色菱形的上方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的蓝色直角三角形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.大的橙色直角三角形",
+          "B.小的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色圆形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的蓝色直角三角形",
+          "B.大的橙色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色圆形的下方？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.小的蓝色直角三角形",
+          "B.小的黑色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色圆形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.中等的紫色直角三角形",
+          "B.小的紫色菱形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色圆形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的橙色直角三角形",
+          "B.中等的紫色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的紫色菱形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的橙色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的绿色正三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的蓝色直角三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的绿色正三角形、一个大的橙色圆形、一个小的蓝色直角三角形、一个大的橙色直角三角形、一个中等的紫色正三角形。在区块1中，有一个中等的紫色直角三角形、一个小的黑色正三角形、一个小的紫色菱形。其中大的橙色直角三角形位于小的黑色正三角形的右上；小的蓝色直角三角形位于小的黑色正三角形的左上；小的紫色菱形位于中等的紫色正三角形的左上；中等的紫色直角三角形位于小的黑色正三角形的左上；大的橙色圆形位于中等的紫色直角三角形的右上；中等的紫色直角三角形位于大的橙色直角三角形的左上；小的蓝色直角三角形位于小的紫色菱形的右下；中等的紫色正三角形位于大的绿色正三角形的右上；小的蓝色直角三角形位于中等的紫色直角三角形的左下；大的绿色正三角形位于大的橙色直角三角形的右下；大的绿色正三角形位于小的蓝色直角三角形的右上；大的橙色圆形位于中等的紫色正三角形的右下。"
+  },
+  {
+    "id": "Spatial_18",
+    "scene": {
+      "scene_id": 18,
+      "block_count": 3,
+      "object_count": 7,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            0,
+            2,
+            4
+          ],
+          "name": "小的绿色正三角形",
+          "coordinate": [
+            45,
+            53
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            2,
+            0,
+            3
+          ],
+          "name": "大的红色菱形",
+          "coordinate": [
+            94,
+            30
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            1,
+            6,
+            5
+          ],
+          "name": "中等的橙色梯形",
+          "coordinate": [
+            -55,
+            25
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            0,
+            5,
+            6
+          ],
+          "name": "小的紫色直角三角形",
+          "coordinate": [
+            -1,
+            -37
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 4,
+          "number": [
+            2,
+            2,
+            0
+          ],
+          "name": "大的绿色圆形",
+          "coordinate": [
+            14,
+            78
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 5,
+          "number": [
+            0,
+            5,
+            2
+          ],
+          "name": "小的紫色长方形",
+          "coordinate": [
+            74,
+            -45
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 6,
+          "number": [
+            2,
+            5,
+            1
+          ],
+          "name": "大的紫色正方形",
+          "coordinate": [
+            -43,
+            8
+          ],
+          "block": 2
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "小的绿色正三角形相对中等的橙色梯形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的红色菱形相对大的紫色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的橙色梯形相对小的紫色直角三角形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的绿色圆形相对大的紫色正方形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的紫色直角三角形相对小的紫色长方形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的紫色直角三角形是否位于小的紫色长方形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的绿色正三角形是否位于中等的橙色梯形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的绿色正三角形是否位于大的红色菱形的下方？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的紫色直角三角形是否位于大的绿色圆形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的红色菱形是否位于中等的橙色梯形的上方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的红色菱形的左侧？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.中等的橙色梯形",
+          "B.小的紫色长方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的绿色正三角形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.大的红色菱形",
+          "B.小的紫色直角三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的绿色正三角形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的紫色直角三角形",
+          "B.大的紫色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于中等的橙色梯形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的紫色直角三角形",
+          "B.大的紫色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的紫色直角三角形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.大的绿色圆形",
+          "B.大的紫色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的紫色正方形位于哪个区块？（单选）",
+        "answer": "C",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的绿色正三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的红色菱形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的紫色长方形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的橙色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1",
+          "C.区块2"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个小的绿色正三角形、一个大的红色菱形、一个中等的橙色梯形。在区块1中，有一个小的紫色直角三角形、一个大的绿色圆形、一个小的紫色长方形。在区块2中，有一个大的紫色正方形。其中小的紫色长方形位于小的紫色直角三角形的右下；小的绿色正三角形位于大的绿色圆形的右下；小的绿色正三角形位于小的紫色长方形的左上；小的紫色直角三角形位于大的紫色正方形的右下；大的红色菱形位于小的绿色正三角形的右下；小的紫色直角三角形位于大的绿色圆形的左下；大的红色菱形位于中等的橙色梯形的右上；中等的橙色梯形位于大的紫色正方形的左上；大的红色菱形位于小的紫色长方形的右上。"
+  },
+  {
+    "id": "Spatial_19",
+    "scene": {
+      "scene_id": 19,
+      "block_count": 2,
+      "object_count": 9,
+      "objects": [
+        {
+          "object_id": 0,
+          "number": [
+            2,
+            6,
+            5
+          ],
+          "name": "大的橙色梯形",
+          "coordinate": [
+            8,
+            -82
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 1,
+          "number": [
+            0,
+            0,
+            4
+          ],
+          "name": "小的红色正三角形",
+          "coordinate": [
+            -54,
+            0
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 2,
+          "number": [
+            1,
+            2,
+            0
+          ],
+          "name": "中等的绿色圆形",
+          "coordinate": [
+            85,
+            -83
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 3,
+          "number": [
+            2,
+            3,
+            3
+          ],
+          "name": "大的黑色菱形",
+          "coordinate": [
+            -68,
+            -65
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 4,
+          "number": [
+            0,
+            4,
+            4
+          ],
+          "name": "小的白色正三角形",
+          "coordinate": [
+            -55,
+            -59
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 5,
+          "number": [
+            2,
+            1,
+            5
+          ],
+          "name": "大的蓝色梯形",
+          "coordinate": [
+            -24,
+            -86
+          ],
+          "block": 0
+        },
+        {
+          "object_id": 6,
+          "number": [
+            0,
+            2,
+            1
+          ],
+          "name": "小的绿色正方形",
+          "coordinate": [
+            -48,
+            -70
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 7,
+          "number": [
+            0,
+            1,
+            5
+          ],
+          "name": "小的蓝色梯形",
+          "coordinate": [
+            -82,
+            -92
+          ],
+          "block": 1
+        },
+        {
+          "object_id": 8,
+          "number": [
+            0,
+            6,
+            4
+          ],
+          "name": "小的橙色正三角形",
+          "coordinate": [
+            -67,
+            -25
+          ],
+          "block": 1
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question_type": "FR",
+        "question": "中等的绿色圆形相对大的黑色菱形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的白色正三角形相对小的橙色正三角形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "大的橙色梯形相对小的绿色正方形的空间关系是什么？（四选二）",
+        "answer": "B,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "小的红色正三角形相对中等的绿色圆形的空间关系是什么？（四选二）",
+        "answer": "A,C",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "FR",
+        "question": "中等的绿色圆形相对小的蓝色梯形的空间关系是什么？（四选二）",
+        "answer": "A,D",
+        "candidate_answers": [
+          "A.上",
+          "B.下",
+          "C.左",
+          "D.右"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的黑色菱形是否位于小的白色正三角形的下方？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的蓝色梯形是否位于小的橙色正三角形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "中等的绿色圆形是否位于小的绿色正方形的左侧？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "小的红色正三角形是否位于中等的绿色圆形的左侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "YN",
+        "question": "大的橙色梯形是否位于小的橙色正三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.是",
+          "B.否"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的橙色梯形的右侧？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的黑色菱形",
+          "B.小的绿色正方形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于大的黑色菱形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.大的蓝色梯形",
+          "B.小的蓝色梯形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色正三角形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.小的白色正三角形",
+          "B.小的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色正三角形的右侧？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.小的绿色正方形",
+          "B.小的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "CO",
+        "question": "哪个物体位于小的红色正三角形的上方？（单选）",
+        "answer": "D",
+        "candidate_answers": [
+          "A.中等的绿色圆形",
+          "B.小的橙色正三角形",
+          "C.两者都是",
+          "D.两者都不是"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "中等的绿色圆形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的橙色正三角形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的红色正三角形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "小的蓝色梯形位于哪个区块？（单选）",
+        "answer": "B",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      },
+      {
+        "question_type": "FB",
+        "question": "大的蓝色梯形位于哪个区块？（单选）",
+        "answer": "A",
+        "candidate_answers": [
+          "A.区块0",
+          "B.区块1"
+        ]
+      }
+    ],
+    "description": "在区块0中，有一个大的橙色梯形、一个小的红色正三角形、一个中等的绿色圆形、一个大的黑色菱形、一个小的白色正三角形、一个大的蓝色梯形。在区块1中，有一个小的绿色正方形、一个小的蓝色梯形、一个小的橙色正三角形。其中大的蓝色梯形位于小的绿色正方形的右下；小的绿色正方形位于大的黑色菱形的右下；小的白色正三角形位于小的红色正三角形的左下；大的橙色梯形位于小的绿色正方形的右下；大的黑色菱形位于小的蓝色梯形的右上；小的绿色正方形位于小的红色正三角形的右下；大的蓝色梯形位于小的蓝色梯形的右上；大的黑色菱形位于小的白色正三角形的左下；小的橙色正三角形位于小的白色正三角形的左上；大的蓝色梯形位于大的橙色梯形的左下；大的黑色菱形位于小的橙色正三角形的左下；大的橙色梯形位于中等的绿色圆形的左上；小的红色正三角形位于小的橙色正三角形的右上；中等的绿色圆形位于大的蓝色梯形的右上。"
+  }
+]

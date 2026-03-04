@@ -1,0 +1,27 @@
+{
+  "total_questions": 91,
+  "correct_count": 33,
+  "accuracy": 0.3626373626373626,
+  "per_type_stats": {
+    "I": {
+      "total": 20,
+      "correct": 10
+    },
+    "II": {
+      "total": 22,
+      "correct": 4
+    },
+    "III": {
+      "total": 22,
+      "correct": 9
+    },
+    "V": {
+      "total": 19,
+      "correct": 7
+    },
+    "IV": {
+      "total": 8,
+      "correct": 3
+    }
+  }
+}

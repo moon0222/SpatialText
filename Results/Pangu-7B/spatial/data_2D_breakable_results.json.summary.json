@@ -1,0 +1,24 @@
+{
+  "scenes_count": 20,
+  "total_questions": 400,
+  "correct_count": 303,
+  "accuracy": 0.7575,
+  "per_type_stats": {
+    "FR": {
+      "total": 100,
+      "correct": 69
+    },
+    "YN": {
+      "total": 100,
+      "correct": 71
+    },
+    "CO": {
+      "total": 100,
+      "correct": 63
+    },
+    "FB": {
+      "total": 100,
+      "correct": 100
+    }
+  }
+}
